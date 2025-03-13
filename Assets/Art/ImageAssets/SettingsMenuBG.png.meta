@@ -110,28 +110,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SettingsMenuBG_0
-      rect:
-        serializedVersion: 2
-        x: 218
-        y: 97
-        width: 107
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2bcd3ecf8e06e347901aa1957c2ef6d
-      internalID: -1900293968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: SettingsMenuBG_1
       rect:
         serializedVersion: 2
@@ -140,7 +118,7 @@ TextureImporter:
         width: 451
         height: 449
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 30, y: 30, z: 30, w: 30}
       customData: 
       outline: []
